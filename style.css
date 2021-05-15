@@ -1,0 +1,46 @@
+h1 {
+    color: red;
+    margin-left: 30px;
+}
+
+/* {
+    border: solid;
+}*/
+.header{
+    
+    background-color: #08edf5;
+}
+
+
+h2,p{
+   
+    color : #057505
+}
+body{
+    background-color: white;
+}
+
+.Camel{
+    margin-top: 70px;
+  
+}
+.grid img{
+    border:2px solid black;
+border-radius: 25%;
+}
+/*.items {
+    position:relative;
+}
+.items p{
+    position:absolute;
+    top:50%;
+    left:50%;
+    transform: translate(-50%,-50%);
+    opacity: 0;
+}
+.items:hover p{
+opacity: 1;
+}
+.items:hover img{
+opacity: 0.4;
+}*/
